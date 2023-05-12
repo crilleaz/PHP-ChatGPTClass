@@ -6,7 +6,7 @@ A highly customizable ChatGPTClass written in PHP.
 
 1. Clone the repository
 ```
-git clone [https://github.com/crilleaz/GPT3-Embedded-Chatbot](https://github.com/crilleaz/PHP-ChatGPTClass)
+git clone https://github.com/crilleaz/PHP-ChatGPTClass
 ```
 
 2. Import class and use it
