@@ -17,8 +17,16 @@ require 'ChatGPTClass.php';
 $chatGPT = new ChatGPT('YOUR_OPENAI_API_KEY', 'gpt-3.5-turbo', 'You are a helpful assistance bot.');
 $response = $chatGPT->sendMessage('who is the president in USA?');
 echo $response;
+
+//Print the json content
+//$content = json_decode($response, true)['choices'][0]['message']['content'];
+//echo $content;
 ?>
+
+
 ```
+
+
 
 ### Discord
 Crille#6623
