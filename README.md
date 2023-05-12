@@ -22,8 +22,6 @@ echo $response;
 //$content = json_decode($response, true)['choices'][0]['message']['content'];
 //echo $content;
 ?>
-
-
 ```
 
 
